@@ -1,5 +1,9 @@
 # ZHU-Lab-Works
 
+
+
+If you are also a junior majoring in Automation at HDU & ITMO, the assignments in this repository might be helpful to you, such as scheduling time for postgraduate entrance exam preparation.  
+
 sm/文件夹下会存放MATLAB代码和模型。
 
 
@@ -7,7 +11,6 @@ sm/文件夹下会存放MATLAB代码和模型。
 * 碰到模型用不了请直接Issue, 或者私信。
 * 值得注意的是某些课程要求课堂提交手写作业，那么本仓库不提供。
 
-If you are also a junior majoring in Automation at HDU & ITMO, the assignments in this repository might be helpful to you, such as scheduling time for postgraduate entrance exam preparation.  
-The assignments in this repository do not guarantee full marks, but they do ensure completion!
+***The assignments in this repository do not guarantee full marks, but they do ensure completion!***
 
-Just to record the work and share ideas.
+***Recording the work and sharing ideas.***
